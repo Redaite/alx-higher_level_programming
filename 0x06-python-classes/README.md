@@ -1,13 +1,13 @@
 Python - Classes and Objects
 
-Here I was introduced to the four principles of OOP:
+- the four principles of OOP:
 
-    Inheritance
-    Polymorphism
-    Abstruction
-    Encapsulation And it's implementation in Classes.
+   * Inheritance
+   * Polymorphism
+   * Abstruction
+   * Encapsulation And it's implementation in Classes.
 
-Tests heavy_check_mark
+- Tests heavy_check_mark
 
     tests: Folder of test files.
 
